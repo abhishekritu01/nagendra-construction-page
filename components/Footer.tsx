@@ -9,7 +9,7 @@ export default function Footer() {
           {/* Company Info */}
           <div>
             <h3 className="text-2xl font-bold mb-4">
-              Build<span className="text-accent">Pro</span>
+              NEO <span className="text-accent">Constructions</span>
             </h3>
             <p className="text-gray-300 mb-4">
               Building excellence, one project at a time. Your trusted construction partner.
@@ -106,7 +106,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} BuildPro. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} NEO Constructions. All rights reserved.</p>
         </div>
       </div>
     </footer>

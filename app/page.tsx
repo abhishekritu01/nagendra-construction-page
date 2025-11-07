@@ -9,8 +9,8 @@ import { ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'Home - BuildPro Construction | Quality Building Solutions',
-  description: 'Welcome to BuildPro - Your trusted construction partner for commercial, residential, and infrastructure projects.',
+  title: 'Home - NEO Constructions | Quality Building Solutions',
+  description: 'Welcome to NEO Constructions - Your trusted construction partner for commercial, residential, and infrastructure projects.',
 };
 
 export default function Home() {
@@ -32,7 +32,7 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-3xl md:text-4xl font-bold text-neutral mb-6">
-              Welcome to BuildPro
+              Welcome to NEO Constructions
             </h2>
             <p className="text-lg text-gray-600 mb-6">
               With over 20 years of experience in the construction industry, we have built a reputation
@@ -111,17 +111,17 @@ export default function Home() {
               {
                 name: 'Rajesh Mehta',
                 role: 'CEO, TechCorp Industries',
-                quote: 'BuildPro delivered our office complex on time and within budget. Their attention to detail and professionalism is unmatched.',
+                quote: 'NEO Constructions delivered our office complex on time and within budget. Their attention to detail and professionalism is unmatched.',
               },
               {
                 name: 'Priya Desai',
                 role: 'Property Developer',
-                quote: 'Working with BuildPro was a pleasure. They transformed our vision into reality with exceptional quality and craftsmanship.',
+                quote: 'Working with NEO Constructions was a pleasure. They transformed our vision into reality with exceptional quality and craftsmanship.',
               },
               {
                 name: 'Amit Patel',
                 role: 'Infrastructure Manager',
-                quote: 'The highway project was completed ahead of schedule. BuildPro\'s expertise in infrastructure development is outstanding.',
+                quote: 'The highway project was completed ahead of schedule. NEO Constructions\' expertise in infrastructure development is outstanding.',
               },
             ].map((testimonial, index) => (
               <div

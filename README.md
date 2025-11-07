@@ -1,4 +1,4 @@
-# BuildPro Construction Website
+# NEO Constructions Website
 
 A modern, fully responsive construction company website built with Next.js 14 (App Router), TypeScript, Tailwind CSS, and Framer Motion.
 

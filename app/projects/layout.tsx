@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Our Projects - BuildPro Construction | Project Portfolio',
+  title: 'Our Projects - NEO Constructions | Project Portfolio',
   description: 'Explore our portfolio of successful construction projects including commercial, residential, and infrastructure developments.',
 };
 

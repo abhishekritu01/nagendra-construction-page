@@ -5,8 +5,8 @@ import TeamCard from '@/components/TeamCard';
 import { team } from '@/data/team';
 
 export const metadata: Metadata = {
-  title: 'Our Team - BuildPro Construction | Meet the Experts',
-  description: 'Meet the talented professionals behind BuildPro Construction - experienced leaders dedicated to building excellence.',
+  title: 'Our Team - NEO Constructions | Meet the Experts',
+  description: 'Meet the talented professionals behind NEO Constructions - experienced leaders dedicated to building excellence.',
 };
 
 export default function Team() {

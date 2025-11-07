@@ -7,7 +7,7 @@ import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Our Services - BuildPro Construction | Comprehensive Building Solutions',
+  title: 'Our Services - NEO Constructions | Comprehensive Building Solutions',
   description: 'Explore our comprehensive construction services including commercial, residential, infrastructure, and project management solutions.',
 };
 

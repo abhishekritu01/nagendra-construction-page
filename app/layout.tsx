@@ -4,7 +4,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-  title: 'BuildPro - Construction Company | Quality Building Solutions',
+  title: 'NEO Constructions - Construction Company | Quality Building Solutions',
   description: 'Leading construction company providing commercial, residential, and infrastructure projects with excellence and precision.',
   keywords: 'construction, building, commercial construction, residential projects, infrastructure',
 };

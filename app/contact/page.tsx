@@ -1,12 +1,12 @@
-git import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import Hero from '@/components/Hero';
 import SectionTitle from '@/components/SectionTitle';
 import ContactForm from '@/components/ContactForm';
 import { MapPin, Phone, Mail, Clock } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Contact Us - BuildPro Construction | Get in Touch',
-  description: 'Contact BuildPro Construction for your construction needs. Get a free quote and consultation today.',
+  title: 'Contact Us - NEO Constructions | Get in Touch',
+  description: 'Contact NEO Constructions for your construction needs. Get a free quote and consultation today.',
 };
 
 export default function Contact() {
@@ -143,7 +143,7 @@ export default function Contact() {
                     allowFullScreen
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
-                    title="BuildPro Construction Location"
+                    title="NEO Constructions Location"
                   ></iframe>
                 </div>
               </div>

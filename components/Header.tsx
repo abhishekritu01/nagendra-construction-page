@@ -26,14 +26,14 @@ export default function Header() {
           <Link href="/" className="flex items-center gap-3">
             <Image
               src="/neo.jpeg"
-              alt="BuildPro logo"
+              alt="NEO Constructions logo"
               width={48}
               height={48}
               className="h-12 w-12 rounded-full object-cover"
               priority
             />
             <span className="text-2xl font-bold text-primary">
-              Build<span className="text-accent">Pro</span>
+              NEO <span className="text-accent">Constructions</span>
             </span>
           </Link>
 

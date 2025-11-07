@@ -4,8 +4,8 @@ import SectionTitle from '@/components/SectionTitle';
 import { Award, Users, Building2, Calendar } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'About Us - BuildPro Construction | Our Story & Mission',
-  description: 'Learn about BuildPro Construction - our mission, vision, values, and commitment to building excellence.',
+  title: 'About Us - NEO Constructions | Our Story & Mission',
+  description: 'Learn about NEO Constructions - our mission, vision, values, and commitment to building excellence.',
 };
 
 export default function About() {
@@ -20,7 +20,7 @@ export default function About() {
     <>
       {/* Hero Banner */}
       <Hero
-        title="About BuildPro"
+        title="About NEO Constructions"
         subtitle="Building excellence with integrity, innovation, and dedication since 2004"
         backgroundImage="https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1920&h=1080&fit=crop"
       />
@@ -96,7 +96,7 @@ export default function About() {
           <div className="max-w-4xl mx-auto">
             <div className="space-y-6 text-lg text-gray-600">
               <p>
-                BuildPro Construction was founded in 2004 with a simple yet powerful vision: to build
+                NEO Constructions was founded in 2004 with a simple yet powerful vision: to build
                 structures that stand the test of time while exceeding client expectations. What started
                 as a small team of passionate builders has grown into one of the region&apos;s most
                 respected construction companies.
